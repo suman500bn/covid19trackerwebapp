@@ -21,7 +21,7 @@ To setup the app for development on your local machine, please follow the instru
 1. Clone the repo to your machine
 
    ```bash
-   git clone 
+   git clone https://github.com/suman500bn/covid19trackerwebapp.git
    cd covid-19-tracker
    ```
 
